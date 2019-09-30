@@ -1,0 +1,5 @@
+﻿  Driver.cpp
+C:\Users\Jonch\Documents\GitHub\cs363-spring2019-assignment4\Expr_Tree_Builder.cpp(190): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\Jonch\Documents\GitHub\cs363-spring2019-assignment4\Expr_Tree_Builder.cpp(194): warning C4305: 'return': truncation from 'int' to 'bool'
+C:\Users\Jonch\Documents\GitHub\cs363-spring2019-assignment4\Expr_Tree_Builder.cpp(198): warning C4305: 'return': truncation from 'int' to 'bool'
+  assignment4.vcxproj -> C:\Users\Jonch\Documents\GitHub\cs363-spring2019-assignment4\.\assignment4.exe
